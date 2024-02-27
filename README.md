@@ -11,7 +11,7 @@ int main(int argc, char* argv[]) {
 
 ```
 
-Hi! My name is Aria, welcome to my repo. I used to be a mechanic, I love to know how machines work at their core. I guess that's why I'm a bare metal programmer nowadays :metal:
+Hi! My name is Aria, welcome to my repo. I used to be a mechanic, I love to know how machines work at their core. I guess that's why I'm a bare metal programmer and Open Source enthusiast nowadays :metal:
 
 ### What I know...
 ![Static Badge](https://img.shields.io/badge/C-blue?style=plastic&logo=C&logoColor=%23ffffff&labelColor=%23A8B9CC&color=%23A8B9CC)
@@ -32,6 +32,9 @@ Hi! My name is Aria, welcome to my repo. I used to be a mechanic, I love to know
 ![Static Badge](https://img.shields.io/badge/Godot-blue?style=plastic&logo=Godot%20engine&logoColor=%23ffffff&labelColor=%23478CBF&color=%23478CBF)
 ![Static Badge](https://img.shields.io/badge/Intel_assembly_language-blue?style=plastic&logo=intel&logoColor=%23ffffff&labelColor=%230071C5&color=%230071C5)
 ![Static Badge](https://img.shields.io/badge/ARM_assembly_language-blue?style=plastic&logo=intel&logoColor=%23ffffff&labelColor=%230091BD&color=%230091BD)
+![Static Badge](https://img.shields.io/badge/Verilog-blue?style=plastic&logo=Verilog)
+![Static Badge](https://img.shields.io/badge/GLSL-blue?style=plastic&logo=Verilog)
+
 
 ### Platform I would love to develop on...
 ![Static Badge](https://img.shields.io/badge/Nintendo-red?style=plastic&logo=Nintendo&logoColor=%23ffffff&labelColor=%23E60012&color=%23E60012)
