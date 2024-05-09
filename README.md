@@ -17,7 +17,7 @@ Hi! My name is Aria, you can call me Ari or Argenta, my second name. I used to b
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,bash,blender,c,cpp,cmake,css,figma,git,github,gradle,hibernate,html,java,js,linux,matlab,maven,mysql,postgres,powershell, python,regex,spring,visualstudio,vscode,windows&theme=dark&perline=50"/>
+    <img src="https://skillicons.dev/icons?i=apple,bash,blender,c,cpp,cmake,css,figma,git,github,gradle,hibernate,html,java,js,linux,matlab,maven,mysql,postgres,powershell,python,regex,spring,visualstudio,vscode,windows&theme=dark&perline=50"/>
   </a>
 </p>
 
