@@ -24,11 +24,11 @@ Bit of a quirky one, as I’ve gone from tinkering with machines to diving deep 
 🔧 Tools & frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,arch,azure,blender,cmake,debian,docker,dotnet,express,figma,flask,git,github,gradle,hibernate,idea,kali,linux,maven,md,mongodb,mysql,nextjs,nginx,nodejs&theme=dark&perline=50"/>
+    <img src="https://skillicons.dev/icons?i=apple,arch,azure,blender,cmake,debian,docker,dotnet,express,figma,flask,git,github,gradle,hibernate,idea,kali,linux,maven,md,mongodb,mysql,nextjs,nginx&theme=dark&perline=50"/>
   </a>
 </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,npm,postgres,postman,react,spring,sqlite,selenium,tensorflow,ubuntu,vim,visualstudio,vscode,vite,wasm,windows&theme=dark&perline=50"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,notion,npm,postgres,postman,react,spring,sqlite,selenium,tensorflow,ubuntu,vim,visualstudio,vscode,vite,wasm,windows&theme=dark&perline=50"/>
   </a>
 </p>
 
