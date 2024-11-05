@@ -24,14 +24,14 @@ Bit of a quirky one, as I’ve gone from tinkering with machines to diving deep 
 🔧 Tools & frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,apple,arch,azure,blender,cmake,debian,docker,dotnet,express,figma,flask,git,github,gradle,hibernate,idea,kali,linux,maven,md,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,octave,postgres,postman,react,spring,sqlite,selenium,tensorflow,ubuntu,vim,visualstudio,vscode,wasm,windows&theme=dark&perline=50"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,apple,arch,azure,blender,cmake,debian,docker,dotnet,express,figma,flask,git,github,gradle,hibernate,idea,kali,linux,maven,md,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,postgres,postman,react,spring,sqlite,selenium,tensorflow,ubuntu,vim,visualstudio,vscode,vite,wasm,windows&theme=dark&perline=50"/>
   </a>
 </p>
 
 ### 👀 The Latest Additions to my 'What on Earth Does This Do?' list...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cassandra,clojure,elixir,emacs,fastapi,fortran,go,godot,graphql,haskell,jenkins,qt,r,raspberrypi,redis,robloxstudio,rust,&theme=dark&perline=50"/>
+    <img src="https://skillicons.dev/icons?i=arduino,cassandra,clojure,elixir,emacs,fastapi,fortran,go,godot,graphql,haskell,jenkins,qt,r,raspberrypi,redis,robloxstudio,rust,unity,unreal&theme=dark&perline=50"/>
   </a>
 </p>
 
