@@ -17,7 +17,7 @@ Bit of a quirky one, as I’ve gone from tinkering with machines to diving deep 
 💬 Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cpp,cs,cmake,css,html,java,js,latex,matlab,powershell,py,regex,ts&theme=dark&perline=50"/>
+    <img src="https://skillicons.dev/icons?i=bash,cpp,cs,css,html,java,js,latex,matlab,powershell,py,regex,ts&theme=dark&perline=50"/>
   </a>
 </p>
 
