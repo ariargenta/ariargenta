@@ -10,8 +10,10 @@ int main(int argc, char* argv[]) {
 }
 
 ```
-## 🤟 Low-Level Bare-Metal Programmer 🤘 $$ e^{i \pi} + 1 = 0 $$
+## 🤟 Low-Level Bare-Metal Programmer 🤘
 Bit of a quirky one, as I’ve gone from tinkering with machines to diving deep into the inner workings of computers. I’m all about getting up close and personal with the hardware – that’s why I’ve been working mainly in C++ and Linux systems. With just a couple of decades under my belt, I’m keen on making things run smooth as butter, right down to the metal. Of course, I’ve been around a bit, but that doesn’t mean I’m done learning – there’s always room for a new challenge, innit? It’s a bit of a mad scientist project, but that’s half the fun, right?
+
+$$ e^{i \pi} + 1 = 0 $$
 
 ### 🤓 Just a lil’ glimpse of what I’m into and pretty good at (but always room for a laugh)...
 💬 Languages:
