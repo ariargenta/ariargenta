@@ -19,7 +19,7 @@ $$ e^{i \pi} + 1 = 0 $$
 💬 Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cpp,cs,css,html,java,js,latex,matlab,powershell,py,regex,ts&theme=dark&perline=50"/>
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,css,html,java,js,latex,matlab,powershell,py,regex,ts&theme=dark&perline=50"/>
   </a>
 </p>
 
