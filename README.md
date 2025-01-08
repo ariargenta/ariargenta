@@ -34,7 +34,7 @@ $$ e^{i \pi} + 1 = 0 $$
   </a>
 </p>
 
-### 😄 Feel free to reach out if you fancy a chat or have any questions about my work...
+## Let's paint the future together and explore the intersection of art and technology 🤝
 <p align="left">
   <a href="https://www.linkedin.com/in/ariargenta">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
