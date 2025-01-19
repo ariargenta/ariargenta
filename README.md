@@ -14,7 +14,7 @@ int main(int argc, char* argv[]) {
 ```
 
 # Rendering dreams, one frame at a time ⬛🟥🟧🟨🟩🟦🟪⬜️
-As an artist at heart and a technologist by trade, I streamline how art is made crafting the tools that empower artists to transform their visions into stunning realities and put them into the development pipeline. I bridge the gap between hardware and software in Render Engineering, translating complex mathematical concepts into high-performance graphics solutions and ensuring that every pixel counts.
+As an artist at heart and a technologist by trade, I streamline how art is made crafting the tools that empower artists to transform their visions into stunning realities and put them into the development pipeline. I bridge the gap between hardware and software in Render Engineering, translating complex mathematical concepts into high-performance graphics solutions and ensuring that every pixel counts. Remember, if you can imagine it, you can program it!
 
 $$ e^{i \pi} + 1 = 0 $$
 
