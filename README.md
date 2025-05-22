@@ -14,6 +14,7 @@ int main(int argc, char* argv[]) {
 
 # Rendering dreams, one frame at a time ⬛🟥🟧🟨🟩🟦🟪⬜️
 Because if you can imagine it, you can program it!
+
 $$ e^{i \pi} + 1 = 0 $$
 
 ## My computational atelier 🖼️
