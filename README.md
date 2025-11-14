@@ -20,7 +20,7 @@ $$ e^{i \pi} + 1 = 0 $$
 ## My computational atelier 🖼️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bash,blender,c,cmake,cpp,css,debian,docker,godot,html,javascript,latex,postgres,powershell,regex,threejs,unity,unreal&theme=dark&perline=50"/>
+    <img src="https://skillicons.dev/icons?i=azure,bash,blender,c,cmake,cpp,css,debian,docker,godot,html,javascript,latex,postgres,powershell,python,regex,threejs,unity,unreal&theme=dark&perline=50"/>
   </a>
 </p>
 
